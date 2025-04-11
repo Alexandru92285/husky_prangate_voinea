@@ -1,0 +1,5 @@
+<launch>
+<node pkg ="husky_zid" type = "zid.py" name ="evita_pereti" output="screen">
+</node>
+
+</launch>
