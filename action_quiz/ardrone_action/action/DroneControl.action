@@ -1,0 +1,8 @@
+# Goal
+string command  # TAKEOFF or LAND
+---
+# Result
+bool success
+---
+# Feedback
+string current_action
